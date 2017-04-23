@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Account Manager" max_length="40" name="x_82794_asg_pipeli_account_manager" type="collection">
+        <element label="Account Manager" mandatory="true" max_length="32" name="account_manager" reference="sys_user" type="reference"/>
+        <element label="Project" max_length="32" name="project" read_only="true" reference="x_82794_asg_pipeli_project" type="reference"/>
+        <index name="index">
+            <element name="account_manager"/>
+        </index>
+        <index name="index2">
+            <element name="project"/>
+        </index>
+    </element>
+</database>

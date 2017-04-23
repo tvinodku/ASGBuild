@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="51c6c1680f523200d1c18d8ce1050e69" sys_domain="global" table="x_82794_asg_pipeli_project" version="3" view="Mobile">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-19 20:50:08</sys_created_on>
+            <sys_id>15c6c1680f523200d1c18d8ce1050e77</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_82794_asg_pipeli_project" sys_domain="global" view="2da21630c4212200a21c0beaf2e293a4">51c6c1680f523200d1c18d8ce1050e69</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-19 20:50:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-19 20:50:08</sys_created_on>
+            <sys_id>99c6c1680f523200d1c18d8ce1050e77</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_82794_asg_pipeli_project" sys_domain="global" view="2da21630c4212200a21c0beaf2e293a4">51c6c1680f523200d1c18d8ce1050e69</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-19 20:50:08</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cdi_sow</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-19 20:50:08</sys_created_on>
+            <sys_id>1dc6c1680f523200d1c18d8ce1050e77</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_82794_asg_pipeli_project" sys_domain="global" view="2da21630c4212200a21c0beaf2e293a4">51c6c1680f523200d1c18d8ce1050e69</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-19 20:50:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>asg_business</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-19 20:50:08</sys_created_on>
+            <sys_id>9dc6c1680f523200d1c18d8ce1050e77</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_82794_asg_pipeli_project" sys_domain="global" view="2da21630c4212200a21c0beaf2e293a4">51c6c1680f523200d1c18d8ce1050e69</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-19 20:50:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-19 20:50:08</sys_created_on>
+            <sys_id>11c6c1680f523200d1c18d8ce1050e78</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_82794_asg_pipeli_project" sys_domain="global" view="2da21630c4212200a21c0beaf2e293a4">51c6c1680f523200d1c18d8ce1050e69</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-19 20:50:08</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>asg_resources</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-19 20:50:08</sys_created_on>
+            <sys_id>91c6c1680f523200d1c18d8ce1050e78</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_82794_asg_pipeli_project" sys_domain="global" view="2da21630c4212200a21c0beaf2e293a4">51c6c1680f523200d1c18d8ce1050e69</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-19 20:50:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-19 20:50:08</sys_created_on>
+            <sys_id>15c6c1680f523200d1c18d8ce1050e78</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_82794_asg_pipeli_project" sys_domain="global" view="2da21630c4212200a21c0beaf2e293a4">51c6c1680f523200d1c18d8ce1050e69</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-19 20:50:08</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>customer</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-19 20:50:08</sys_created_on>
+            <sys_id>95c6c1680f523200d1c18d8ce1050e78</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_82794_asg_pipeli_project" sys_domain="global" view="2da21630c4212200a21c0beaf2e293a4">51c6c1680f523200d1c18d8ce1050e69</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-19 20:50:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-19 20:50:08</sys_created_on>
+            <sys_id>19c6c1680f523200d1c18d8ce1050e78</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_82794_asg_pipeli_project" sys_domain="global" view="2da21630c4212200a21c0beaf2e293a4">51c6c1680f523200d1c18d8ce1050e69</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-19 20:50:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_82794_asg_pipeli_project</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-19 20:50:08</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>51c6c1680f523200d1c18d8ce1050e69</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_82794_asg_pipeli_project</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ASG Pipeline" source="x_82794_asg_pipeli">26566e000f123200d1c18d8ce1050ec4</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="ASG Pipeline">26566e000f123200d1c18d8ce1050ec4</sys_scope>
+            <sys_update_name>sys_ui_section_51c6c1680f523200d1c18d8ce1050e69</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-19 20:50:08</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Mobile" name="Mobile">2da21630c4212200a21c0beaf2e293a4</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

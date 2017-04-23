@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="cdi_solutions_architect" table="x_82794_asg_pipeli_project" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>cdi_solutions_architect</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Deborah Ryan</label>
+            <language>en</language>
+            <name>x_82794_asg_pipeli_project</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-18 16:09:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>16ac72440f923200d1c18d8ce1050ee3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-18 16:09:00</sys_updated_on>
+            <value>Deborah Ryan</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>cdi_solutions_architect</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ian Erikson</label>
+            <language>en</language>
+            <name>x_82794_asg_pipeli_project</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-18 16:11:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>854d7a440f923200d1c18d8ce1050e6e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-18 16:11:06</sys_updated_on>
+            <value>Ian Erikson</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>cdi_solutions_architect</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Joe Masi</label>
+            <language>en</language>
+            <name>x_82794_asg_pipeli_project</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-18 16:11:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c96d7e040f923200d1c18d8ce1050e9b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-18 16:11:36</sys_updated_on>
+            <value>Joe Masi</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>cdi_solutions_architect</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Joel Kosmich</label>
+            <language>en</language>
+            <name>x_82794_asg_pipeli_project</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-18 16:12:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>598d3e440f923200d1c18d8ce1050e24</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-18 16:12:12</sys_updated_on>
+            <value>Joel Kosmich</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>cdi_solutions_architect</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Will Huber</label>
+            <language>en</language>
+            <name>x_82794_asg_pipeli_project</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-18 16:12:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>18adf2440f923200d1c18d8ce1050ef3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-18 16:12:35</sys_updated_on>
+            <value>Will Huber</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>cdi_solutions_architect</element>
+            <name>x_82794_asg_pipeli_project</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-18 16:09:00</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>d9dcfe040f923200d1c18d8ce1050e53</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_name>cdi_solutions_architect</sys_name>
+            <sys_package display_value="ASG Pipeline" source="x_82794_asg_pipeli">26566e000f123200d1c18d8ce1050ec4</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="ASG Pipeline">26566e000f123200d1c18d8ce1050ec4</sys_scope>
+            <sys_update_name>sys_choice_x_82794_asg_pipeli_project_cdi_solutions_architect</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-18 16:12:35</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="457f620c0f523200d1c18d8ce1050e70" sys_domain="global" table="x_82794_asg_pipeli_project" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-18 15:39:42</sys_created_on>
+            <sys_id>1426b6000f923200d1c18d8ce1050ef0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_82794_asg_pipeli_project" sys_domain="global" view="Default view">457f620c0f523200d1c18d8ce1050e70</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-18 15:39:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-18 15:39:42</sys_created_on>
+            <sys_id>9426b6000f923200d1c18d8ce1050ef0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_82794_asg_pipeli_project" sys_domain="global" view="Default view">457f620c0f523200d1c18d8ce1050e70</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-18 15:39:42</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cdi_sow</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-18 15:39:42</sys_created_on>
+            <sys_id>1826b6000f923200d1c18d8ce1050ef0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_82794_asg_pipeli_project" sys_domain="global" view="Default view">457f620c0f523200d1c18d8ce1050e70</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-18 15:39:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>asg_business</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-18 15:39:42</sys_created_on>
+            <sys_id>9826b6000f923200d1c18d8ce1050ef0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_82794_asg_pipeli_project" sys_domain="global" view="Default view">457f620c0f523200d1c18d8ce1050e70</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-18 15:39:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cdi_solutions_architect</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-18 15:39:42</sys_created_on>
+            <sys_id>1c26b6000f923200d1c18d8ce1050ef0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_82794_asg_pipeli_project" sys_domain="global" view="Default view">457f620c0f523200d1c18d8ce1050e70</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-18 15:39:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>expected_deal_value_ll</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-18 15:39:42</sys_created_on>
+            <sys_id>9c26b6000f923200d1c18d8ce1050ef0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_82794_asg_pipeli_project" sys_domain="global" view="Default view">457f620c0f523200d1c18d8ce1050e70</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-18 15:39:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>expected_deal_value_ul</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-18 15:39:42</sys_created_on>
+            <sys_id>1026b6000f923200d1c18d8ce1050ef1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_82794_asg_pipeli_project" sys_domain="global" view="Default view">457f620c0f523200d1c18d8ce1050e70</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-18 15:39:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>hours</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-18 15:39:42</sys_created_on>
+            <sys_id>9026b6000f923200d1c18d8ce1050ef1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_82794_asg_pipeli_project" sys_domain="global" view="Default view">457f620c0f523200d1c18d8ce1050e70</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-18 15:39:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>blended_rate</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-18 15:39:42</sys_created_on>
+            <sys_id>1426b6000f923200d1c18d8ce1050ef1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_82794_asg_pipeli_project" sys_domain="global" view="Default view">457f620c0f523200d1c18d8ce1050e70</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-18 15:39:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>asg_resources</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-18 15:39:42</sys_created_on>
+            <sys_id>9426b6000f923200d1c18d8ce1050ef1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_82794_asg_pipeli_project" sys_domain="global" view="Default view">457f620c0f523200d1c18d8ce1050e70</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-18 15:39:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-18 15:39:42</sys_created_on>
+            <sys_id>1826b6000f923200d1c18d8ce1050ef1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_82794_asg_pipeli_project" sys_domain="global" view="Default view">457f620c0f523200d1c18d8ce1050e70</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-18 15:39:42</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-18 15:39:42</sys_created_on>
+            <sys_id>9826b6000f923200d1c18d8ce1050ef1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_82794_asg_pipeli_project" sys_domain="global" view="Default view">457f620c0f523200d1c18d8ce1050e70</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-18 15:39:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>close_date</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-18 15:39:42</sys_created_on>
+            <sys_id>1c26b6000f923200d1c18d8ce1050ef1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_82794_asg_pipeli_project" sys_domain="global" view="Default view">457f620c0f523200d1c18d8ce1050e70</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-18 15:39:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cdi_account_manager</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-18 15:39:42</sys_created_on>
+            <sys_id>9c26b6000f923200d1c18d8ce1050ef1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_82794_asg_pipeli_project" sys_domain="global" view="Default view">457f620c0f523200d1c18d8ce1050e70</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-18 15:39:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>servicenow_account_manager</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-18 15:39:42</sys_created_on>
+            <sys_id>1026b6000f923200d1c18d8ce1050ef2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_82794_asg_pipeli_project" sys_domain="global" view="Default view">457f620c0f523200d1c18d8ce1050e70</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-18 15:39:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>actual_deal_value</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-18 15:39:42</sys_created_on>
+            <sys_id>9026b6000f923200d1c18d8ce1050ef2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_82794_asg_pipeli_project" sys_domain="global" view="Default view">457f620c0f523200d1c18d8ce1050e70</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-18 15:39:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>billing_type</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-18 15:39:42</sys_created_on>
+            <sys_id>1426b6000f923200d1c18d8ce1050ef2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_82794_asg_pipeli_project" sys_domain="global" view="Default view">457f620c0f523200d1c18d8ce1050e70</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-18 15:39:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>external_resources</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-18 15:39:42</sys_created_on>
+            <sys_id>9426b6000f923200d1c18d8ce1050ef2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_82794_asg_pipeli_project" sys_domain="global" view="Default view">457f620c0f523200d1c18d8ce1050e70</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-18 15:39:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-18 15:39:42</sys_created_on>
+            <sys_id>1826b6000f923200d1c18d8ce1050ef2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_82794_asg_pipeli_project" sys_domain="global" view="Default view">457f620c0f523200d1c18d8ce1050e70</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-18 15:39:42</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>customer</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-18 15:39:42</sys_created_on>
+            <sys_id>9826b6000f923200d1c18d8ce1050ef2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_82794_asg_pipeli_project" sys_domain="global" view="Default view">457f620c0f523200d1c18d8ce1050e70</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-18 15:39:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-18 15:39:42</sys_created_on>
+            <sys_id>1c26b6000f923200d1c18d8ce1050ef2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_82794_asg_pipeli_project" sys_domain="global" view="Default view">457f620c0f523200d1c18d8ce1050e70</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-18 15:39:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_82794_asg_pipeli_project</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-18 15:10:32</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>457f620c0f523200d1c18d8ce1050e70</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_82794_asg_pipeli_project</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ASG Pipeline" source="x_82794_asg_pipeli">26566e000f123200d1c18d8ce1050ec4</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="ASG Pipeline">26566e000f123200d1c18d8ce1050ec4</sys_scope>
+            <sys_update_name>sys_ui_section_457f620c0f523200d1c18d8ce1050e70</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-18 15:10:32</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

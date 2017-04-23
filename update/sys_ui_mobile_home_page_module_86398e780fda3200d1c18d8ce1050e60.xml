@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_mobile_home_page_module">
+    <sys_ui_mobile_home_page_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <background_color>#278efc</background_color>
+        <content_style>light_content</content_style>
+        <icon>database</icon>
+        <image/>
+        <module display_value="Projects">4d0de2880f523200d1c18d8ce1050e9c</module>
+        <roles/>
+        <subtitle/>
+        <sys_class_name>sys_ui_mobile_home_page_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-04-20 20:18:56</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>86398e780fda3200d1c18d8ce1050e60</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>ASG Projects</sys_name>
+        <sys_package display_value="ASG Pipeline" source="x_82794_asg_pipeli">26566e000f123200d1c18d8ce1050ec4</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ASG Pipeline">26566e000f123200d1c18d8ce1050ec4</sys_scope>
+        <sys_update_name>sys_ui_mobile_home_page_module_86398e780fda3200d1c18d8ce1050e60</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-04-21 22:32:24</sys_updated_on>
+        <title>ASG Projects</title>
+    </sys_ui_mobile_home_page_module>
+</record_update>

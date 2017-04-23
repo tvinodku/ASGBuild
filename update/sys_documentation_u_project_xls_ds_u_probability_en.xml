@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_probability" label="Probability" language="en" table="u_project_xls_ds">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_probability</element>
+            <help/>
+            <hint/>
+            <label>Probability</label>
+            <language>en</language>
+            <name>u_project_xls_ds</name>
+            <plural>Probabilities</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-19 18:04:01</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>88c028e00f123200d1c18d8ce1050e20</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Probability</sys_name>
+            <sys_package display_value="ASG Pipeline" source="x_82794_asg_pipeli">26566e000f123200d1c18d8ce1050ec4</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="ASG Pipeline">26566e000f123200d1c18d8ce1050ec4</sys_scope>
+            <sys_update_name>sys_documentation_u_project_xls_ds_u_probability_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-19 18:04:01</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

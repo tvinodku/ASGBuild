@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Project XLS DS" max_length="40" name="u_project_xls_ds" type="collection">
+        <element attributes="import_attribute_name=ASC Resources,edge_encryption_enabled=true" label="ASC Resources" max_length="40" name="u_asc_resources" type="string"/>
+        <element attributes="import_attribute_name=ASC %" label="ASC %" max_length="15" name="u_asc__" type="decimal"/>
+        <element attributes="import_attribute_name=ASG Business,edge_encryption_enabled=true" label="ASG Business" max_length="40" name="u_asg_business" type="string"/>
+        <element attributes="import_attribute_name=ASG-Chris" label="ASG-Chris" max_length="40" name="u_asg_chris" type="integer"/>
+        <element attributes="import_attribute_name=ASG-Kranti" label="ASG-Kranti" max_length="40" name="u_asg_kranti" type="integer"/>
+        <element attributes="import_attribute_name=ASG Resources,edge_encryption_enabled=true" label="ASG Resources" max_length="40" name="u_asg_resources" type="string"/>
+        <element attributes="import_attribute_name=ASG-Tim" label="ASG-Tim" max_length="40" name="u_asg_tim" type="integer"/>
+        <element attributes="import_attribute_name=ASG-Tricia" label="ASG-Tricia" max_length="40" name="u_asg_tricia" type="integer"/>
+        <element attributes="import_attribute_name=ASG-Vinod" label="ASG-Vinod" max_length="40" name="u_asg_vinod" type="integer"/>
+        <element attributes="import_attribute_name=ASG %" label="ASG %" max_length="15" name="u_asg__" type="decimal"/>
+        <element attributes="import_attribute_name=Blended Rate,edge_encryption_enabled=true" label="Blended Rate" max_length="40" name="u_blended_rate" type="string"/>
+        <element attributes="import_attribute_name=CDI Account Manager,edge_encryption_enabled=true" label="CDI Account Manager" max_length="40" name="u_cdi_account_manager" type="string"/>
+        <element attributes="import_attribute_name=CDI Solutions Architect,edge_encryption_enabled=true" label="CDI Solutions Architect" max_length="40" name="u_cdi_solutions_architect" type="string"/>
+        <element attributes="import_attribute_name=CDI SOW #,edge_encryption_enabled=true" label="CDI SOW #" max_length="40" name="u_cdi_sow__" type="string"/>
+        <element attributes="import_attribute_name=Close Date,edge_encryption_enabled=true" label="Close Date" max_length="40" name="u_close_date" type="string"/>
+        <element attributes="import_attribute_name=Customer Name,edge_encryption_enabled=true" label="Customer Name" max_length="40" name="u_customer_name" type="string"/>
+        <element attributes="import_attribute_name=Deal Status,edge_encryption_enabled=true" label="Deal Status" max_length="40" name="u_deal_status" type="string"/>
+        <element attributes="import_attribute_name=Expected Deal Value,edge_encryption_enabled=true" label="Expected Deal Value" max_length="40" name="u_expected_deal_value" type="string"/>
+        <element attributes="import_attribute_name=Fixed or T&amp;M,edge_encryption_enabled=true" label="Fixed or T&amp;M" max_length="40" name="u_fixed_or_t_m" type="string"/>
+        <element attributes="import_attribute_name=Hours" label="Hours" max_length="15" name="u_hours" type="decimal"/>
+        <element attributes="import_attribute_name=Notes,edge_encryption_enabled=true" label="Notes" max_length="700" name="u_notes" type="string"/>
+        <element attributes="import_attribute_name=Probability,edge_encryption_enabled=true" label="Probability" max_length="40" name="u_probability" type="string"/>
+        <element attributes="import_attribute_name=Project Name,edge_encryption_enabled=true" label="Project Name" max_length="79" name="u_project_name" type="string"/>
+        <element attributes="import_attribute_name=ServiceNow Account Manager,edge_encryption_enabled=true" label="ServiceNow Account Manager" max_length="40" name="u_servicenow_account_manager" type="string"/>
+    </element>
+</database>

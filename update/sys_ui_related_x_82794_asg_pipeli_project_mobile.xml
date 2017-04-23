@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_related sys_domain="global" table="x_82794_asg_pipeli_project" version="2" view="Mobile">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Project - Mobile" name="x_82794_asg_pipeli_project" related_list="NULL" sys_domain="global" view="2da21630c4212200a21c0beaf2e293a4">b0a095ac0f523200d1c18d8ce1050eab</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>x_82794_asg_pipeli_resource.project</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-19 21:33:14</sys_created_on>
+            <sys_id>78a095ac0f523200d1c18d8ce1050eab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-19 21:33:14</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Project - Mobile" name="x_82794_asg_pipeli_project" related_list="NULL" sys_domain="global" view="2da21630c4212200a21c0beaf2e293a4">b0a095ac0f523200d1c18d8ce1050eab</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>x_82794_asg_pipeli_account_manager.project</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-19 21:33:14</sys_created_on>
+            <sys_id>7ca095ac0f523200d1c18d8ce1050eab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-19 21:33:14</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Project - Mobile</calculated_name>
+            <filter/>
+            <name>x_82794_asg_pipeli_project</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-04-19 21:33:14</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b0a095ac0f523200d1c18d8ce1050eab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Project - Mobile</sys_name>
+            <sys_package display_value="ASG Pipeline" source="x_82794_asg_pipeli">26566e000f123200d1c18d8ce1050ec4</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="ASG Pipeline">26566e000f123200d1c18d8ce1050ec4</sys_scope>
+            <sys_update_name>sys_ui_related_x_82794_asg_pipeli_project_Mobile</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-04-19 21:33:14</sys_updated_on>
+            <sys_user/>
+            <view display_value="Mobile" name="Mobile">2da21630c4212200a21c0beaf2e293a4</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

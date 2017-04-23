@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Resource" max_length="40" name="x_82794_asg_pipeli_resource" type="collection">
+        <element label="Allocation %" max_length="40" name="allocation" type="integer"/>
+        <element label="End Date" max_length="40" name="end_date" type="glide_date"/>
+        <element label="Project" max_length="32" name="project" reference="x_82794_asg_pipeli_project" type="reference"/>
+        <element label="Resource" max_length="32" name="resource" reference="sys_user" type="reference"/>
+        <element label="Start Date" max_length="40" name="start_date" type="glide_date"/>
+        <index name="index">
+            <element name="resource"/>
+        </index>
+        <index name="index2">
+            <element name="project"/>
+        </index>
+    </element>
+</database>

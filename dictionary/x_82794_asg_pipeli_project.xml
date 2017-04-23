@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="task" label="Project" max_length="40" name="x_82794_asg_pipeli_project" sizeclass="95" type="collection">
+        <element label="Actual Deal Value" max_length="20" name="actual_deal_value" type="currency"/>
+        <element choice="1" label="ASG Business" mandatory="true" max_length="40" name="asg_business" type="choice">
+            <choice>
+                <element label="Advisory Solutions" sequence="0" value="Advisory Solutions"/>
+                <element label="Cloud Management Solutions" sequence="1" value="Cloud Management Solutions"/>
+                <element label="Cloud Infrastructure Solutions" sequence="2" value="Cloud Infrastructure Solutions"/>
+                <element label="DevOps Solutions" sequence="3" value="DevOps Solutions"/>
+                <element label="Public Cloud Solutions" sequence="4" value="Public Cloud Solutions"/>
+                <element label="Resident Services" sequence="5" value="Resident Services"/>
+                <element label="ServiceNow Solutions" sequence="6" value="ServiceNow Solutions"/>
+            </choice>
+        </element>
+        <element attributes="no_email=true" label="ASG Resources" max_length="4000" name="asg_resources" reference="sys_user" reference_qual="roles=asg_group^EQ" reference_qual_condition="roles=asg_group^EQ" type="glide_list"/>
+        <element choice="1" label="Billing Type" max_length="40" name="billing_type" type="choice">
+            <choice>
+                <element label="Fixed" sequence="0" value="Fixed"/>
+                <element label="Fixed (Jumpstart)" sequence="1" value="Fixed (Jumpstart)"/>
+                <element label="Fixed (Workshop)" sequence="2" value="Fixed (Workshop)"/>
+                <element label="TBD" sequence="3" value="TBD"/>
+                <element label="T&amp;M" sequence="4" value="T&amp;M"/>
+            </choice>
+        </element>
+        <element label="Blended Rate" max_length="20" name="blended_rate" type="currency"/>
+        <element choice="1" label="CDI Account Manager" max_length="100" name="cdi_account_manager" type="glide_list">
+            <choice>
+                <element label="Adam Ferraro" sequence="0" value="Adam Ferraro"/>
+                <element label="Adam Jacobs" sequence="0" value="Adam Jacobs"/>
+                <element label="Ben Salomon" sequence="0" value="Ben Salomon"/>
+                <element label="Ben Solomon" sequence="0" value="Ben Solomon"/>
+                <element label="Chris Clark" sequence="0" value="Chris Clark"/>
+                <element label="Cyndy Fuhro" sequence="0" value="Cyndy Fuhro"/>
+                <element label="Elena" sequence="0" value="Elena"/>
+                <element label="Elena Acosta" sequence="0" value="Elena Acosta"/>
+                <element label="Jaime Levi" sequence="0" value="Jaime Levi"/>
+                <element label="Jason Kalvesmaki" sequence="0" value="Jason Kalvesmaki"/>
+                <element label="John Wurtele" sequence="0" value="John Wurtele"/>
+                <element label="Kristina Burr" sequence="0" value="Kristina Burr"/>
+                <element label="Matt Biringer" sequence="0" value="Matt Biringer"/>
+                <element label="Mike Boyd" sequence="0" value="Mike Boyd"/>
+                <element label="Paul Goldy" sequence="0" value="Paul Goldy"/>
+                <element label="Rich Falcone" sequence="0" value="Rich Falcone"/>
+                <element label="Robert Burgess" sequence="0" value="Robert Burgess"/>
+                <element label="Steve Lieberson" sequence="0" value="Steve Lieberson"/>
+                <element label="Vince Collado" sequence="0" value="Vince Collado"/>
+                <element label="Vincent Collado" sequence="0" value="Vincent Collado"/>
+                <element label="Chuck Maier" sequence="1" value="Chuck Maier"/>
+                <element label="Herman Matfes" sequence="2" value="Herman Matfes"/>
+                <element label="n/a" sequence="3" value="n/a"/>
+                <element label="Brenden Sullivan" sequence="4" value="Brenden Sullivan"/>
+                <element label="Gene Mallett" sequence="5" value="Gene Mallett"/>
+                <element label="Lori Bennett" sequence="6" value="Lori Bennett"/>
+                <element label="Michael Cordo" sequence="7" value="Michael Cordo"/>
+                <element label="Mike Byrne" sequence="8" value="Mike Byrne"/>
+                <element label="Ryan Folks" sequence="9" value="Ryan Folks"/>
+                <element label="Ryan Harrison" sequence="10" value="Ryan Harrison"/>
+                <element label="Ryan Turner" sequence="11" value="Ryan Turner"/>
+                <element label="Tom Begg" sequence="12" value="Tom Begg"/>
+            </choice>
+        </element>
+        <element label="CDI Solutions Architect" max_length="4000" name="cdi_solutions_architect" type="glide_list"/>
+        <element label="CDI SOW #" mandatory="true" max_length="40" name="cdi_sow" type="string"/>
+        <element label="Close Date" max_length="40" name="close_date" type="glide_date"/>
+        <element label="Customer" max_length="32" name="customer" reference="x_82794_asg_pipeli_customer" type="reference"/>
+        <element label="Expected Deal Value - LL" max_length="20" name="expected_deal_value_ll" type="currency"/>
+        <element label="Expected Deal Value - UL" max_length="20" name="expected_deal_value_ul" type="currency"/>
+        <element label="External Resources" max_length="4000" name="external_resources" reference="sys_user" type="glide_list"/>
+        <element label="Hours" max_length="15" name="hours" type="decimal"/>
+        <element display="true" label="Project Name" mandatory="true" max_length="100" name="project_name" type="string"/>
+        <element choice="1" label="ServiceNow Account Manager" max_length="40" name="servicenow_account_manager" type="choice">
+            <choice>
+                <element label="Adam Ferraro" sequence="0" value="Adam Ferraro"/>
+                <element label="Chuck Maier" sequence="1" value="Chuck Maier"/>
+                <element label="Herman Matfes" sequence="2" value="Herman Matfes"/>
+                <element label="n/a" sequence="3" value="n/a"/>
+                <element label="Brenden Sullivan" sequence="4" value="Brenden Sullivan"/>
+                <element label="Gene Mallett" sequence="5" value="Gene Mallett"/>
+                <element label="Lori Bennett" sequence="6" value="Lori Bennett"/>
+                <element label="Michael Cordo" sequence="7" value="Michael Cordo"/>
+                <element label="Mike Byrne" sequence="8" value="Mike Byrne"/>
+                <element label="Ryan Folks" sequence="9" value="Ryan Folks"/>
+                <element label="Ryan Harrison" sequence="10" value="Ryan Harrison"/>
+                <element label="Ryan Turner" sequence="11" value="Ryan Turner"/>
+                <element label="Tom Begg" sequence="12" value="Tom Begg"/>
+            </choice>
+        </element>
+    </element>
+</database>
